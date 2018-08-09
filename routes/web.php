@@ -11,6 +11,7 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+Route::get('/', function () 
+{
+    return '<center><h1>Adriano</h1></center>';
 });
